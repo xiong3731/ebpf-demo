@@ -1,0 +1,7 @@
+bin/
+cmd/agent/bpf_bpfel.go
+cmd/agent/bpf_bpfeb.go
+cmd/agent/bpf_bpfel.o
+cmd/agent/bpf_bpfeb.o
+bpf/vmlinux.h
+*.o
